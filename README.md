@@ -54,6 +54,14 @@ the contributions made by: National Oceanographic and Atmospheric Administration
 Australian Institute of Marine Science (AIMS), and Great Barrier Reef Marine Park Authority .
 
 ![Capture](https://user-images.githubusercontent.com/50074455/56867588-1b6cfc80-69e7-11e9-98b1-620a1a7fbd8a.JPG)
+
 The above line graph describes occurances of coral bleeching in Colombia in different years i.e from 1970 to 2010.The coral occurances from 1970 to 1980 maintained stability then it again grown up after 1980 and then it decreased in 1990 and maintained stability and it raise to peak and the count has crossed more than 15 in 2000 and again it decreased.
+
+![Capture2](https://user-images.githubusercontent.com/50074455/56867590-20ca4700-69e7-11e9-9a81-0ac23c45328d.JPG)
+
+
+The map describes the locations of corals around colombia which are affected by bleeching.
+
+
 
 
